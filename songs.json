@@ -1,1 +1,90 @@
-
+[
+    {
+        "title": "Belle",
+        "file": "belle.mp3"
+    },
+    {
+        "title": "Bluebird",
+        "file": "bluebird.mp3"
+    },
+    {
+        "title": "Dark Life Note - Elvish Magic",
+        "file": "darklifenote_elvishmagic.mp3"
+    },
+    {
+        "title": "Dharma Deep Dive",
+        "file": "dharmadeepdive.mp3"
+    },
+    {
+        "title": "Eyes of Tara",
+        "file": "eyesoftara.mp3"
+    },
+    {
+        "title": "Floating to You",
+        "file": "floatingtoyou.mp3"
+    },
+    {
+        "title": "For Those Who Have Gathered",
+        "file": "forthosewhohavegathered.mp3"
+    },
+    {
+        "title": "Golden Week",
+        "file": "goldenweek.mp3"
+    },
+    {
+        "title": "The Search",
+        "file": "kenverheecke_thesearch.mp3"
+    },
+    {
+        "title": "For a Moment",
+        "file": "manelijamal_foramoment.mp3"
+    },
+    {
+        "title": "Nightlight",
+        "file": "nightlight.mp3"
+    },
+    {
+        "title": "Nights Like This",
+        "file": "nightslikethis.mp3"
+    },
+    {
+        "title": "Oceans of Ambrosia",
+        "file": "oceansofambrosia.mp3"
+    },
+    {
+        "title": "Claudia",
+        "file": "stefanoguzzetti_claudia.mp3"
+    },
+    {
+        "title": "Tears",
+        "file": "tears.mp3"
+    },
+    {
+        "title": "This Time Tomorrow",
+        "file": "thistimetomorrow.mp3"
+    },
+    {
+        "title": "Twilight",
+        "file": "twilight.mp3"
+    },
+    {
+        "title": "Angel Village",
+        "file": "ulfjanson_angelvillage.mp3"
+    },
+    {
+        "title": "Under the Moonlight",
+        "file": "underthemoonlight.mp3"
+    },
+    {
+        "title": "Visible",
+        "file": "visible.mp3"
+    },
+    {
+        "title": "Whispers of the Shaman",
+        "file": "whispersoftheshaman.mp3"
+    },
+    {
+        "title": "Wisdom in the Roots",
+        "file": "wisdomintheroots.mp3"
+    }
+]
